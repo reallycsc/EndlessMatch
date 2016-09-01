@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ac9ad5bbec6ad424b9fe6225e2b0c40d
+timeCreated: 1459496911
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GridPrefab: {fileID: 108336, guid: de7fd6d514219df4a9ab7c2daf72a8a4, type: 2}
+  - VerticalPrefab: {fileID: 132394, guid: 1dda68b7a2f83f74998bb756c7072c54, type: 2}
+  - HorizantalPrefab: {fileID: 138742, guid: b76ec4674ff00a44bb8994aa72cd42ac, type: 2}
+  - IdTextPrefab: {fileID: 11412978, guid: 92163547f4564f349974c63952906594, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
